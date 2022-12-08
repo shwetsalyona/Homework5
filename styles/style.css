@@ -139,3 +139,8 @@ a {
         gap: 30px;
     }
 }
+@media  screen and (max-width: 550px) {
+    .nav {
+        font-size: 0.75rem;
+    }
+}
