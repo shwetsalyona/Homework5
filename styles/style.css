@@ -1,0 +1,117 @@
+body {
+    font-family: "Open Sans", Arial, serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    color: #070707;
+}
+a {
+    text-decoration: none;
+}
+.bg-gray {
+    background-color: #F6F6F6;
+}
+.title {
+    margin: 0;
+    font-weight: 700;
+    font-size: 2.125rem;
+}
+.nav {
+    width: 60%;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+    /*border-bottom: solid #828282 1px;*/
+}
+.nav-link {
+    color: #070707;
+}
+.name {
+    border-top: solid #828282 1px;
+    font-weight: 700;
+    font-size: 3rem;
+    padding-top: 12px;
+    padding-bottom: 50px;
+}
+.hero {
+    background-image: url("../images/hero.png");
+    height: 28vw;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.aboutMe {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.aboutMe-text {
+    line-height: 25px;
+}
+.skills {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.programs {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.stars {
+    padding-top: 40px;
+}
+.p-t {
+    padding-top: 10px;
+}
+.p-b {
+    padding-bottom: 21px;
+}
+.portfolio {
+    text-align: center;
+    padding-top: 100px;
+}
+.portfolio-img {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 39vw;
+}
+.portfolio-img1 {
+    margin-top: 50px;
+    background-image: url("../images/fashion-store.png");
+}
+.portfolio-img2 {
+    background-image: url("../images/reebok_web.png");
+}
+.portfolio-img3 {
+    background-image: url("../images/braun-landing.png");
+}
+.contacts {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.media {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    padding-bottom: 20px;
+}
+.btn {
+    color: white;
+    background-color: black;
+    border-radius: 22px;
+    padding: 10px 16px
+}
+.wrapper {
+
+}
+.content {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.aboutMe {
+
+}
